@@ -7,8 +7,6 @@ console.log(bmi);
 bmi = Math.round(bmi * 100) / 100;
 // result.innerHTML = bmi;
 
-//some ne
-
 function calc() {
     let height = +userHeight.value;
     let weight = +userWeight.value;
